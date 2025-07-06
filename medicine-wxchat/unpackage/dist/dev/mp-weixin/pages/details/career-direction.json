@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "职业方向",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "occupation": "/components/list/occupation"
+  }
+}

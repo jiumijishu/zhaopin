@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "navigationBarTitleText": "职业方向详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "post": "/components/list/post"
+  }
+}
