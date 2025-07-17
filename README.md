@@ -21,7 +21,7 @@ http://zhaopin.weixinai.cn/index  13627255297 / 123456
 
 #### 官网
 
-1. 官网地址：http://www.weixinai.cn
+1. 官网地址：http://weixinai.cn/
 
 #### 软件架构
 
@@ -46,4 +46,4 @@ http://zhaopin.weixinai.cn/index  13627255297 / 123456
 
 #### 用户权益
 
-1. 商用二开联系作者，请关注官网：http://www.weixinai.cn
+1. 商用二开联系作者，请关注官网：http://weixinai.cn/
